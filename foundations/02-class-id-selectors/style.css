@@ -1,19 +1,18 @@
 .pink{
     background-color: rgba(255, 0, 34, 0.432);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 #blue{
-    color: rgb(1, 17, 255);
+    color: #0000FF;
     font-size: 36px;
 }
 
-.pink.size{
+.size{
     font-size: 24px;
 }
 
 #green{
-    background-color: rgba(41, 185, 48, 0.555);
-    font-size: 24px;
+    background-color: hsl(120, 100%, 70%);
     font-weight: bold;
 }
